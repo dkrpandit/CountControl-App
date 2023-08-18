@@ -21,7 +21,7 @@
     border-radius: 5px;
     background-color: rgb(144, 235, 7);
     cursor: pointer;
-    margin: 18px;
+    margin: 4px;
 }
 .button2{
     font-size: 20px;
@@ -30,7 +30,7 @@
     border-radius: 5px;
     background-color: rgb(218, 86, 25);
     cursor: pointer;
-    margin: 18px;
+    margin: 4px;
 }
 .button3{
     font-size: 20px;
@@ -39,5 +39,6 @@
     border-radius: 5px;
     background-color: rgb(89, 81, 168);
     cursor: pointer;
-    margin: 18px;
+    margin: 4px;
+  
 }
