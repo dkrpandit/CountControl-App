@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CountControl-App/static/css/main.2a59ddfb.css",
+    "main.js": "/CountControl-App/static/js/main.d6f5c245.js",
+    "index.html": "/CountControl-App/index.html",
+    "main.2a59ddfb.css.map": "/CountControl-App/static/css/main.2a59ddfb.css.map",
+    "main.d6f5c245.js.map": "/CountControl-App/static/js/main.d6f5c245.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a59ddfb.css",
+    "static/js/main.d6f5c245.js"
+  ]
+}
